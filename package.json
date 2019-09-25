@@ -1,6 +1,6 @@
 {
   "name": "auto-release",
-  "version": "0.0.0-development",
+  "version": "0.0.1",
   "private": true,
   "dependencies": {
     "@types/jest": "24.0.18",
